@@ -10,4 +10,5 @@ dependencies = [
     "jupyterlab>=4.3.4",
     "torch>=2.5.1",
     "torchvision>=0.20.1",
+    "trainer>=0.0.36",
 ]
